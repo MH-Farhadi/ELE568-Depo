@@ -1,0 +1,20 @@
+Evaluation of felt with low saline concentration
+============================================================
+
+ARTIFACT METRICS:
+  high_amplitude_percentage: 0.106
+  flat_signal_percentage: 8.853
+  emg_affected_channels: 10.000
+  line_noise_affected_channels: 10.000
+  artifact_score: 16.984
+
+QUALITY METRICS:
+  snr: 6.943
+  alpha_peak_prominence: 25.820
+  signal_stability: 8.201
+  quality_score: 70.287
+
+IMPEDANCE ESTIMATE:
+  Mean impedance: 0.975
+
+COMBINED SCORE: 58.349

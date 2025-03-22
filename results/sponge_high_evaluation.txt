@@ -1,0 +1,20 @@
+Evaluation of sponge with high saline concentration
+============================================================
+
+ARTIFACT METRICS:
+  high_amplitude_percentage: 0.008
+  flat_signal_percentage: 14.161
+  emg_affected_channels: 5.000
+  line_noise_affected_channels: 5.000
+  artifact_score: 11.395
+
+QUALITY METRICS:
+  snr: 19.079
+  alpha_peak_prominence: 31.425
+  signal_stability: 56.083
+  quality_score: 98.159
+
+IMPEDANCE ESTIMATE:
+  Mean impedance: 0.296
+
+COMBINED SCORE: 86.974
