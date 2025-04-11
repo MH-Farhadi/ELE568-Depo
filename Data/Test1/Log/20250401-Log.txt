@@ -1,0 +1,9 @@
+[System Info]
+Operating System= Windows 10 Enterprise
+Windows Version= 10.0.9200
+
+System Type= AMD x64
+Processor= Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz
+Installed Physical Memory (RAM)= 11.51 GB
+Available Physical Memory= 15.87 GB
+Disk 1= C:\: Total: 466.62 GB; Free: 85.83 GB
